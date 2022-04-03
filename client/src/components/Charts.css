@@ -1,0 +1,10 @@
+
+.chartsContainer {
+    display: flex;
+    flex-direction: column;
+    padding: 100px 20px 20px 20px;
+}
+
+.charts {
+    max-width: 500px;
+}
